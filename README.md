@@ -15,4 +15,4 @@ The satellite will be launched in partnership with the Federal University of Sã
 
 We are inviting all radio-amateurs and satellite enthusiasts around the world to help us receive **PION-BR1** while in orbit! All information on what you need to know about reception of PION-BR1 signals can be found on our Wiki.
 
-## [Click here to access the PION-BR1's Wiki!](https://github.com/pion-labs/PION-BR1/wiki). 
+## [Click here to access the PION-BR1's Wiki!](https://github.com/pion-labs/PION-BR1/wiki)
